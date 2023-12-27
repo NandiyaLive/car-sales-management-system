@@ -1,0 +1,11 @@
+Z:\Documents\Uni\Visual Programming\car-sale-management\car-sale-management\bin\Debug\car-sale-management.exe.config
+Z:\Documents\Uni\Visual Programming\car-sale-management\car-sale-management\bin\Debug\car-sale-management.exe
+Z:\Documents\Uni\Visual Programming\car-sale-management\car-sale-management\bin\Debug\car-sale-management.pdb
+Z:\Documents\Uni\Visual Programming\car-sale-management\car-sale-management\obj\Debug\car-sale-management.csproj.AssemblyReference.cache
+Z:\Documents\Uni\Visual Programming\car-sale-management\car-sale-management\obj\Debug\car_sale_management.Home.resources
+Z:\Documents\Uni\Visual Programming\car-sale-management\car-sale-management\obj\Debug\car_sale_management.Properties.Resources.resources
+Z:\Documents\Uni\Visual Programming\car-sale-management\car-sale-management\obj\Debug\car-sale-management.csproj.GenerateResource.cache
+Z:\Documents\Uni\Visual Programming\car-sale-management\car-sale-management\obj\Debug\car-sale-management.csproj.CoreCompileInputs.cache
+Z:\Documents\Uni\Visual Programming\car-sale-management\car-sale-management\obj\Debug\car-sale-management.exe
+Z:\Documents\Uni\Visual Programming\car-sale-management\car-sale-management\obj\Debug\car-sale-management.pdb
+Z:\Documents\Uni\Visual Programming\car-sale-management\car-sale-management\obj\Debug\car_sale_management.Login.resources
